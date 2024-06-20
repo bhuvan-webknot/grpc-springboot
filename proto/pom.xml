@@ -10,17 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>proto</artifactId>
-
-    <developers>
-        <developer>
-            <name>A Sarang Kumar Tak</name>
-            <email>sarangdevproblems@gmail.com</email>
-            <url>hhttps://www.linkedin.com/in/sarang-kumar-tak-1454ba111/</url>
-            <organization>Youtube</organization>
-            <organizationUrl>https://www.youtube.com/channel/UCVno4tMHEXietE3aUTodaZQ</organizationUrl>
-        </developer>
-    </developers>
-
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -36,6 +25,11 @@
             <groupId>io.grpc</groupId>
             <artifactId>grpc-protobuf</artifactId>
             <version>1.30.0</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.annotation</groupId>
+            <artifactId>javax.annotation-api</artifactId>
+            <version>1.2</version>
         </dependency>
     </dependencies>
 

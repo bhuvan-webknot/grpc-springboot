@@ -10,10 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author Dev Problems(A Sarang Kumar Tak)
- * @YoutubeChannel https://www.youtube.com/channel/UCVno4tMHEXietE3aUTodaZQ
- */
 @RestController
 @AllArgsConstructor
 public class BookAuthorController {

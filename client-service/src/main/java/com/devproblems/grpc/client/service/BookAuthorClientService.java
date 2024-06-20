@@ -13,10 +13,6 @@ import java.util.*;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Dev Problems(A Sarang Kumar Tak)
- * @YoutubeChannel https://www.youtube.com/channel/UCVno4tMHEXietE3aUTodaZQ
- */
 @Service
 public class BookAuthorClientService {
 
